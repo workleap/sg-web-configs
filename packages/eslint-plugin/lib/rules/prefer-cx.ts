@@ -8,7 +8,7 @@ const rule: Rule.RuleModule = {
                 "Prefer cx over classnames as the name of classnames imports.",
             category: "Strict Imports",
             recommended: false,
-            url: "https://github.com/gsoft-inc/sg-web-configs/blob/main/packages/eslint-plugin/docs/rules/prefer-cx.md"
+            url: "https://github.com/workleap/sg-web-configs/blob/main/packages/eslint-plugin/docs/rules/prefer-cx.md"
         },
         fixable: "code",
         schema: []
