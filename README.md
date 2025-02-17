@@ -2,7 +2,7 @@
 Common configurations for building web apps at ShareGate
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE.md) 
-[![CI](https://github.com/gsoft-inc/sg-web-configs/actions/workflows/ci.yml/badge.svg)](https://github.com/gsoft-inc/sg-web-configs/actions/workflows/ci.yml)
+[![CI](https://github.com/workleap/sg-web-configs/actions/workflows/ci.yml/badge.svg)](https://github.com/workleap/sg-web-configs/actions/workflows/ci.yml)
 
 ## Usage 
   
@@ -59,4 +59,4 @@ Once you submit your PR, a GSoft team member will review your proposal. We may a
 
 ## License
 
-Copyright © 2023, GSoft inc. This code is licensed under the Apache License, Version 2.0. You may obtain a copy of this license at https://github.com/gsoft-inc/gsoft-license/blob/master/LICENSE.
+Copyright © 2023, GSoft inc. This code is licensed under the Apache License, Version 2.0. You may obtain a copy of this license at https://github.com/workleap/gsoft-license/blob/master/LICENSE.
